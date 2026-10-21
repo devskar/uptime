@@ -1,0 +1,9 @@
+{
+  "timeoutSec": 10,
+  "intervalSec": 5,
+  "entries": [
+    {
+      "url": "https://example.com"
+    }
+  ]
+}
